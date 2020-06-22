@@ -1,0 +1,7 @@
+body {
+  background: rgb(255, 255, 255) url("images/django.webp") no-repeat;
+}
+li a {
+  color: green;
+}
+
