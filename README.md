@@ -1,2 +1,2 @@
 # Poll App 
-## Simple application using Django to take polls from users
+### Simple application to take polls from users using Django.
